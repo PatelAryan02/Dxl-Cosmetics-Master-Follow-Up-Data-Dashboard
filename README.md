@@ -23,10 +23,10 @@ This dashboard helps executives monitor task progress, ownership, and priorities
 ## 📸 Screenshots  
 
 ### Index Overview  
-![Index Overview](./screenshots/dashboard1.png)  
+![Index Overview](./screenshot/dashboard1.png)  
 
 ### Follow-Up Dashboard  
-![Follow-Up Dashboard](./screenshots/dashboard2.png)  
+![Follow-Up Dashboard](./screenshot/dashboard2.png)  
 
 ---
 
