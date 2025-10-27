@@ -5,6 +5,16 @@ This dashboard helps executives monitor task progress, ownership, and priorities
 
 ---
 
+## 📸 Screenshots  
+
+### Index Overview  
+![Index Overview](./screenshot/Dashboard1.png) 
+
+### Follow-Up Dashboard  
+![Follow-Up Dashboard](./screenshot/Dashboard2.png)  
+
+---
+
 ## 🚀 Project Overview
 - Tracks **Total, Pending, and Completed** tasks  
 - Breaks down by **Category, Priority, and Assigned Employee**  
@@ -17,16 +27,6 @@ This dashboard helps executives monitor task progress, ownership, and priorities
 - **Power BI** – dashboard development  
 - **DAX** – measures and calculations  
 - **Excel** – data source  
-
----
-
-## 📸 Screenshots  
-
-### Index Overview  
-![Index Overview](./screenshot/Dashboard1.png) 
-
-### Follow-Up Dashboard  
-![Follow-Up Dashboard](./screenshot/Dashboard2.png)  
 
 ---
 
