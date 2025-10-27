@@ -3,7 +3,6 @@
 An interactive **Power BI dashboard** built for **Daxal Cosmetics** to track and follow up on company tasks.  
 This dashboard helps executives monitor task progress, ownership, and priorities — making reporting to the CEO simple and effective.  
 
----
 
 ## 📸 Screenshots  
 
