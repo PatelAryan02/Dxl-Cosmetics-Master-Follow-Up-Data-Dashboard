@@ -1,45 +1,48 @@
-# 📊 Daxal Cosmetics Follow-Up Dashboard
+# 📊 Blinkit Sales & Insights Dashboard
 
-An interactive **Power BI dashboard** built for **Daxal Cosmetics** to track and follow up on company tasks.  
-This dashboard helps executives monitor task progress, ownership, and priorities — making reporting to the CEO simple and effective.  
-
+An interactive Power BI dashboard built to analyze Blinkit’s sales patterns, outlet performance, product categories, and delivery efficiency.
+It helps business owners make faster, smarter decisions — just like Blinkit delivers in minutes, this dashboard delivers insights at the same speed.  
 
 ## 📸 Screenshots  
 
-### Index Overview  
+### Landing Page  
 ![Index Overview](./screenshot/Dashboard1.png) 
 
-### Follow-Up Dashboard  
-![Follow-Up Dashboard](./screenshot/Dashboard2.png)  
+### Overview Insights
+![Follow-Up Dashboard](./screenshot/Dashboard2.png)
+
+### Detailed Insights
+![Follow-Up Dashboard](./screenshot/Dashboard2.png)
 
 ---
 
 ## 🚀 Project Overview
-- Tracks **Total, Pending, and Completed** tasks  
-- Breaks down by **Category, Priority, and Assigned Employee**  
-- Provides workload distribution for accountability  
-- Quick navigation between **Index Overview** and **Follow-Up Dashboard**  
+- Tracks Total Sales, Avg Sales, Total Items, Avg Ratings, Avg Delivery Time
+- Breaks down insights by Item Type, Outlet Type, Fat Content, Outlet Size, and Location Tier
+- Includes custom filter pane, clean navigation buttons, and a Blinkit-themed UI
+- Helps identify top-selling categories, delivery bottlenecks, outlet performance, and more  
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Power BI** – dashboard development  
-- **DAX** – measures and calculations  
-- **Excel** – data source  
+- **Power BI** – dashboard design & visualizations  
+- **DAX** – measures, KPIs, time-intelligence  
+- **Excel** – data source
+- **Json** – data source  
 
 ---
 
 ## 🔑 The Problem
-- Hard to track pending vs. completed tasks  
-- No clear accountability for task ownership  
-- Raw tables were inefficient for CEO reporting  
+- Hard to understand category performance, delivery trends, and outlet strengths from raw data 
+- No quick way to compare sales across multiple item types and outlet locations 
+- Decision-making was slow due to scattered data 
 
 ---
 
 ## ✅ The Solution
-- Built a centralized **Power BI dashboard** for follow-up tracking  
-- Showed **tasks by category, priority, and responsibility**  
-- Simplified reporting with **visual insights**  
+- Built a complete Blinkit-style analytical dashboard for faster decision making 
+- Highlighted **sales trends, outlet behavior, rating quality, and delivery efficiency**
+- Provided clean visuals to make insights **easy, fast, and actionable**
 
 ---
 
