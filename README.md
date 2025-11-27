@@ -1,7 +1,7 @@
-# 📊 Blinkit Sales & Insights Dashboard
+# 📊 Master Follow-Up Data PHD Dashboard
 
-An interactive Power BI dashboard built to analyze Blinkit’s sales patterns, outlet performance, product categories, and delivery efficiency.
-It helps business owners make faster, smarter decisions — just like Blinkit delivers in minutes, this dashboard delivers insights at the same speed.  
+A detailed Power BI dashboard designed to help the team track tasks, follow-up stages, assigned work, and progress across departments.
+The goal is simple: make follow-ups easier, highlight pending work, and bring clarity to who is responsible for what.
 
 ## 📸 Screenshots  
 
@@ -11,16 +11,13 @@ It helps business owners make faster, smarter decisions — just like Blinkit de
 ### Overview Insights
 ![Follow-Up Dashboard](./screenshot/Dashboard2.png)
 
-### Detailed Insights
-![Follow-Up Dashboard](./screenshot/Dashboard2.png)
 
 ---
 
 ## 🚀 Project Overview
-- Tracks Total Sales, Avg Sales, Total Items, Avg Ratings, Avg Delivery Time
-- Breaks down insights by Item Type, Outlet Type, Fat Content, Outlet Size, and Location Tier
-- Includes custom filter pane, clean navigation buttons, and a Blinkit-themed UI
-- Helps identify top-selling categories, delivery bottlenecks, outlet performance, and more  
+- This dashboard brings all follow-up data into one place so the team can track tasks without digging through Excel files or messages.
+- It shows every task, its priority, who assigned it, who’s responsible, and how many follow-ups have been done.
+- The design focuses on quick navigation, clean visuals, and giving management a real-time view of progress and delays. 
 
 ---
 
@@ -33,16 +30,19 @@ It helps business owners make faster, smarter decisions — just like Blinkit de
 ---
 
 ## 🔑 The Problem
-- Hard to understand category performance, delivery trends, and outlet strengths from raw data 
-- No quick way to compare sales across multiple item types and outlet locations 
-- Decision-making was slow due to scattered data 
+- Task tracking was scattered across multiple sheets and messages
+- No clear visibility into where follow-ups were stuck
+- Hard to identify high-priority or overdue tasks
+- Managers had to manually check each sheet for updates
+- No quick way to understand workload distribution across employees
 
 ---
 
 ## ✅ The Solution
-- Built a complete Blinkit-style analytical dashboard for faster decision making 
-- Highlighted **sales trends, outlet behavior, rating quality, and delivery efficiency**
-- Provided clean visuals to make insights **easy, fast, and actionable**
+- Built a centralized Power BI dashboard with three clear views: **Index, Overview, and Follow-Up Dashboard**.
+- Added visual indicators for **priority, category, days, and follow-up rounds**.
+- Created a clean filter panel for faster slicing and deeper insights.
+- Made accountability simple by showing who assigned, who is responsible, and current status at a glance.
 
 ---
 
